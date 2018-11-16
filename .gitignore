@@ -34,3 +34,7 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+#::GMG::Ignore Python Notebook history
+#https://stackoverflow.com/questions/36306017/should-ipynb-checkpoints-be-stored-in-git/39997938
+.ipynb_checkpoints
