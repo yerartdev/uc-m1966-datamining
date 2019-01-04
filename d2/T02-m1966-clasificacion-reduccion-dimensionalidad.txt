@@ -1,0 +1,11 @@
+T02 - Problema de Clasificación
+
+En la presente tarea consideraremos el dataset "meteo.csv", incluido en el GitHub dedicado a este Máster, para aplicar las técnicas de reducción de la dimensión y de clasificación vistas en el curso.
+
+Para el desarrollo de la tarea se permitirá el uso de todo el material incluido en el Moodle de las asignatura así como el desarrollado por el alumno durante la realización de las prácticas.
+
+La entrega consisitirá de un notebook de Jupyter ó un R-MarkDown, junto con el archivo html que éste genera. Ambos ficheros se entregarán a través del Moodle de la asignatura en la tarea correspondiente.
+
+
+Fecha 15/01/2019
+
