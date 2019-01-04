@@ -1,0 +1,9 @@
+﻿T01 - Variables Discretas
+
+En la presente tarea consideraremos el dataset "Mushroom", incluido tanto en la librería arulesViz como en las diferentes plataformas descritas en el marco de la asignatura y en el GitHub dedicado a este Máster, para aplicar las diferentes técnicas vistas en el curso para variables categóricas: Reglas de Asociación y Árboles de Clasificación.
+
+Para el desarrollo de la tarea se permitirá el uso de todo el material incluido en el Moodle de las asignatura así como el desarrollado por el alumno durante la realización de las prácticas.
+
+La entrega consistirá de un notebook de Jupyter ó un R-MarkDown, junto con el archivo html que éste genera. Ambos ficheros se entregarán a través del Moodle de la asignatura en la tarea correspondiente.
+
+Fecha 20/12/2018
